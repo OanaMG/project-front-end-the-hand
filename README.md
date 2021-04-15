@@ -27,7 +27,6 @@ To use the restaurant login and see what our restaurants would see, please use t
     Friendly Fire     email: manager@friendlyfire.com    password: bookavo1234!
     Bayt Al Yemani    email: bayt@alyemani.com           password: bookavo1234!		
     Five Rivers       email: fiverivers@fiverivers.com   password: bookavo1234!	
-
 ## Contributions
 
 As this project is a work in progress, you can expect to see regular changes. The Hand will continue to work on this project as we develop our skills, and as we decide where Bookavo could improve.
@@ -35,3 +34,5 @@ As this project is a work in progress, you can expect to see regular changes. Th
 ## Thanks!
 
 For our team, this project is the culmination of the School of Code Bootcamp, and represents the sum of our collective learnings over the past 13 weeks. Thanks to everyone that helped us out along our first steps in to coding.
+
+
